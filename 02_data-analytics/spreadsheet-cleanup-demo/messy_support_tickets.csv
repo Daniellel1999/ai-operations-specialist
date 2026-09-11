@@ -1,0 +1,46 @@
+ticket_id,customer,category_raw,description,date_raw,priority_raw,true_category
+1001,Acme Inc,billing,I was charged twice for my subscription this month.,2024-01-05,High,Billing
+1002,acme incorporated,BILLING,Double charge on my card again please refund.,01/05/2024,high,Billing
+1003,Globex Corp,tech support,The app crashes every time I try to export a report.,"Jan 6, 2024",Medium,Technical
+1004,Globex Corp,TECH,"App keeps crashing on export, very frustrating.",06-Jan-24,med,Technical
+1005,Initech,acct,"I cannot log into my account, password reset isn't working.",2024-01-07,High,Account
+1006,Initech,Account Access,Locked out of my account after password reset attempt.,01/07/2024,high,Account
+1007,Umbrella LLC,shipping delay,My order has not arrived and it's been two weeks.,2024-01-08,Medium,Shipping
+1008,Umbrella LLC,SHIPPING,"Package still not delivered, tracking not updating.",08-Jan-24,med,Shipping
+1009,Soylent Co,billng,Invoice amount doesn't match what I agreed to.,2024-01-09,Low,Billing
+1010,Soylent Co,Bill Issue,Wrong amount on this month's invoice.,Jan 9 2024,low,Billing
+1011,Stark Industries,other,Just wanted to say the new dashboard looks great!,2024-01-10,Low,Other
+1012,Stark Industries,N/A,Feedback: love the new UI update.,10/01/2024,low,Other
+1013,Wayne Enterprises,tech,"Cannot upload files larger than 5MB, used to work fine.",2024-01-11,High,Technical
+1014,Wayne Enterprises,Technical Issue,File upload fails silently for large files.,11-Jan-24,high,Technical
+1015,Hooli,ACCT,Two-factor authentication code never arrives by email.,2024-01-12,High,Account
+1016,Hooli,account,2FA email codes not being received at all.,01/12/2024,high,Account
+1017,Pied Piper,ship,Received the wrong item in my shipment.,2024-01-13,Medium,Shipping
+1018,Pied Piper,Shipping Issue,"Wrong product shipped, need a replacement.",13-Jan-24,med,Shipping
+1019,Massive Dynamic,billing,Can I get an itemized breakdown of my last invoice?,2024-01-14,Low,Billing
+1020,Massive Dynamic,,Requesting itemized invoice breakdown for last charge.,Jan 14 2024,low,Billing
+1021,Cyberdyne Systems,tech support,Mobile app logs me out every few minutes.,2024-01-15,Medium,Technical
+1022,Cyberdyne Systems,TECHNICAL,Constant logouts on mobile app since last update.,15/01/2024,med,Technical
+1023,Oscorp,acct,How do I change the email address on my account?,2024-01-16,Low,Account
+1024,Oscorp,Account,"Need to update account email, can't find the setting.",16-Jan-24,low,Account
+1025,Wonka Industries,shipping,Order marked delivered but I never received it.,2024-01-17,High,Shipping
+1026,Wonka Industries,SHIP,"Tracking says delivered, package is missing.",01/17/2024,high,Shipping
+1027,Gekko & Co,billing,Was I charged the annual or monthly rate? Confused.,2024-01-18,Low,Billing
+1028,Gekko & Co,Bill,Unsure which billing plan I'm currently on.,Jan 18 2024,low,Billing
+1029,Vandelay Industries,other,Suggestion: add dark mode to the settings page.,2024-01-19,Low,Other
+1030,Vandelay Industries,Feedback,Would love a dark mode option in settings.,19-Jan-24,low,Other
+1031,Acme Inc,billing,I was charged twice for my subscription this month.,2024-01-05,High,Billing
+1032,Prestige Worldwide,tech,Search feature returns no results for valid queries.,2024-01-20,Medium,Technical
+1033,Prestige Worldwide,Technical,"Search bar broken, no results even for exact matches.",20-Jan-24,med,Technical
+1034,Duff Beer Co,acct,Account shows as suspended but I paid my bill.,2024-01-21,High,Account
+1035,Duff Beer Co,ACCOUNT,Suspended in error despite payment going through.,01/21/2024,high,Account
+1036,Bluth Company,shipping,Shipment stuck in transit for over a week.,2024-01-22,Medium,Shipping
+1037,Bluth Company,,Package hasn't moved in tracking for 8 days.,Jan 22 2024,med,Shipping
+1038,Sterling Cooper,billing,Refund requested two weeks ago still not processed.,2024-01-23,High,Billing
+1039,Sterling Cooper,BILL,Still waiting on refund from two weeks ago.,23-Jan-24,high,Billing
+1040,Dunder Mifflin,other,Is there a referral program for existing customers?,2024-01-24,Low,Other
+1041,Dunder Mifflin,OTHER,Asking about referral rewards for current customers.,01/24/2024,low,Other
+1042,Los Pollos Hermanos,tech support,Two-step verification app won't sync with my phone.,2024-01-25,Medium,Technical
+1043,Los Pollos Hermanos,TECH SUPPORT,"Verification app out of sync, codes rejected.",25-Jan-24,med,Technical
+1044,Gringotts Bank,acct,Need to merge two duplicate accounts under one email.,2024-01-26,Low,Account
+1045,Gringotts Bank,Account Merge,"Requesting account merge, ended up with two logins.",Jan 26 2024,low,Account
