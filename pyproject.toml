@@ -13,4 +13,6 @@ dependencies = [
     "scikit-learn",
     "huggingface_hub",
     "openpyxl",
+    "requests",
+    "python-dotenv",
 ]
