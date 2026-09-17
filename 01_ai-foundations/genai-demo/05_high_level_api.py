@@ -48,7 +48,7 @@ results = generator(
 )
 
 generated_text = results[0]["generated_text"]
-print("Generated text (real model output):")
+print("Generated text:")
 print(f"  {generated_text!r}")
 
 print(

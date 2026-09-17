@@ -25,7 +25,7 @@ predictions will look like near-random noise since it's undertrained.
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
-MODEL_NAME = "gpt2"
+MODEL_NAME = "gpt2-medium"
 TOP_K = 5
 
 prompt = "The capital of France is"

@@ -18,7 +18,7 @@ uv run python 01_tokenization.py
 uv run python 02_embeddings.py
 uv run python 03_prediction.py
 uv run python 04_generation.py
-uv run python 05_real_llm.py
+uv run python 05_high_level_api.py
 ```
 
 The first run of each model-based script will download the small `gpt2`
@@ -63,7 +63,7 @@ Generated text
   token; softmax turns those scores into probabilities.
 - **04_generation.py** — the autoregressive loop, written out explicitly:
   predict, sample, append, repeat.
-- **05_real_llm.py** — the same idea via Hugging Face's high-level
+- **05_high_level_api.py** — the same loop as 04, replaced by Hugging Face’s
   `pipeline("text-generation", ...)` API. This is inference on a pretrained
   model — no training happens anywhere in this project.
 
