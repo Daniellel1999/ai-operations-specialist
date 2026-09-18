@@ -9,7 +9,7 @@ decoding**.
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
 
-MODEL_NAME = "gpt2"
+MODEL_NAME = "gpt2-medium"
 tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
 model = AutoModelForCausalLM.from_pretrained(MODEL_NAME)
 model.eval()
