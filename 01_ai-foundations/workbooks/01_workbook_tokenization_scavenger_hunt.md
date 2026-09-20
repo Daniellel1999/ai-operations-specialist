@@ -30,12 +30,12 @@ show("misspeling")
 
 | Input | Your guess | Actual tokens |
 |---|---|---|
-| supercalifragilisticexpialidocious | | |
-| 2026 | | |
-| 🐍🔥 | | |
-| antidisestablishmentarianism | | |
-| don't | | |
-| misspeling | | |
+| supercalifragilisticexpialidocious | 13 | 11 |
+| 2026 | 2 | 2 |
+| 🐍🔥 | 4 | 6 |
+| antidisestablishmentarianism | 10 | 5 |
+| don't | 3 | 2 |
+| misspeling | 3 | 3 |
 
 <details>
 <summary>💡 What's actually happening</summary>
@@ -55,10 +55,10 @@ Try your own words below (names, made-up words, technical jargon) and
 find one that splits into **3 or more** tokens.
 
 ```python
-show("your_word_here")
+show("Elnekave")
 ```
 
-Write the word you found and its token split here: _______________________
+Write the word you found and its token split here: Elnekave -> ['El', 'ne', 'k', 'ave']
 
 ## Task 3: Same word, different case/spacing
 
